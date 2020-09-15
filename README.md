@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=endcerro)](https://github.com/anuraghazra/github-readme-stats)
+![bio](https://github-readme-stats.vercel.app/api?username=endcerro&show_icons=true&hide_title=true&include_all_commits=true)
 
 
 <!--
