@@ -1,9 +1,9 @@
 ### Wassssup ? That's some WIP Stuff
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/edal--ce)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/edal--ce)](https://github.com/JaeSeoKim/badge42)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endcerro&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![bio](https://github-readme-stats.vercel.app/api?username=endcerro&show_icons=true&hide_title=true&include_all_commits=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endcerro&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![bio](https://github-readme-stats.vercel.app/api?username=endcerro&show_icons=true&hide_title=true&include_all_commits=true&theme=dark) 
 
 
 <!--
