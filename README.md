@@ -1,6 +1,9 @@
-### Wassssup ? That's some WIP Stuff
+### Hey stranger, welcome to were things get messy
+
+Student @ 42_Paris since Nov 19
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/edal--ce)](https://github.com/JaeSeoKim/badge42)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endcerro&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
