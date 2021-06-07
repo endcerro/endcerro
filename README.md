@@ -4,8 +4,6 @@ Student @ 42_Paris since Nov 19
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/edal--ce)](https://github.com/JaeSeoKim/badge42)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endcerro&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -16,8 +14,9 @@ Student @ 42_Paris since Nov 19
 ![image](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![image](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endcerro&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+
 
 ![bio](https://github-readme-stats.vercel.app/api?username=endcerro&show_icons=true&hide_title=true&include_all_commits=true&theme=dark) 
 
