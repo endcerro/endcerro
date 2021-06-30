@@ -2,7 +2,7 @@
 
 Student @ 42_Paris since Nov 19
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/edal--ce)darkmode=true](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/edal--ce?darkmode=true)](https://github.com/JaeSeoKim/badge42)
 
 
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
