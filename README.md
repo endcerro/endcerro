@@ -2,7 +2,7 @@
 
 Student @ 42_Paris since Nov 19
 
-[![edal--ce's 42 stats](https://badge42.vercel.app/api/v2/cl2go8t6o014509kwqikfi4xu/stats?cursusId=21&coalitionId=12)](https://github.com/JaeSeoKim/badge42)
+[![edal--ce's 42 stats](https://badge42.vercel.app/api/v2/cl2go8t6o014509kwqikfi4xu/stats?cursusId=21&coalitionId=46)](https://github.com/JaeSeoKim/badge42)
 
 
 
