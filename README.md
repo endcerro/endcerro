@@ -1,9 +1,3 @@
-### Wanna do some code? 
-
-Student @ 42_Paris since Nov 19
-
-
-
 # Hi ! Welcome to my github !
 
 ## I'm a 25 years old dev from 🇫🇷, looking for work atm !
