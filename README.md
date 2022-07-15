@@ -1,4 +1,4 @@
-### Hey stranger, welcome to were things get messy
+### Wanna do some code?
 
 Student @ 42_Paris since Nov 19
 
