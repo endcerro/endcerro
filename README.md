@@ -7,11 +7,9 @@ Student @ 42_Paris since Nov 19
 # Hi ! Welcome to my github !
 
 ## I'm a 25 years old dev from 🇫🇷, looking for work atm !
-I've started coding 5 years ago by myself and then studied code in different forms   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endcerro&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
-<!-- ![bio](https://github-readme-stats.vercel.app/api?username=endcerro&show_icons=true&hide_title=true&include_all_commits=true&theme=dark)  -->
+I've started coding 5 years ago by myself and then studied code in different forms
 
-![](https://komarev.com/ghpvc/?username=endcerro)
+
 
 
 
@@ -40,6 +38,7 @@ I code with :
 ![image](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 <!-- ![image]() -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endcerro&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 ### Here's my progress at the school i'm in:
@@ -60,5 +59,6 @@ I code with :
  
 
 
+![](https://komarev.com/ghpvc/?username=endcerro)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
