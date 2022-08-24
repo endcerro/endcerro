@@ -1,6 +1,6 @@
 # Hi ! Welcome to my github !
 
-## I'm a 25 years old dev from 🇫🇷, looking for work atm !
+## I'm a 25 years old dev from 🇫🇷, looking for woin Paris rk atm !
 I've started coding 5 years ago by myself and then studied code in different forms
 
 
