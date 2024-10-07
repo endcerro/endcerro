@@ -1,9 +1,9 @@
 # Hi ! Welcome to my github !
 
-## I'm a 25 years old dev from 🇫🇷, looking for work in Paris atm !
+## I'm a 27 years old dev from 🇫🇷, looking for work in Bordeaux ATM
 I've started coding 5 years ago by myself and then studied code in different forms
 
-
+I enjoy systems and low level programming 
 
 
 
